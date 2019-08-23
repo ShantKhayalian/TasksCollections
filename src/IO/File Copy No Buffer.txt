@@ -1,0 +1,32 @@
+package com.company;
+
+import java.io.*;
+
+public class Main {
+    static String inFile = "D:\\Form.jpg";
+    static String outFile = "D:\\Spring\\InputOutput\\src\\Ojar.jpg";
+
+    public static void main(String[] args) {
+        fileCopyNoBuffer();
+
+    }
+
+    private static void fileCopyNoBuffer() {
+        System.out.println("inside fileCopyNoBuffer");
+        long start, eclipedTime;
+        start = System.nanoTime();
+        try(FileInputStream in = new FileInputStream(inFile);
+            FileOutputStream out = new FileOutputStream(outFile)){
+
+            int byteRead;
+            while((byteRead = in.read())!= -1){
+                out.write(byteRead);
+            }
+        }catch(IOException e){
+            e.printStackTrace();
+        }
+        eclipedTime = System.nanoTime() - start;
+        System.out.println("take " + (eclipedTime / 1000000.0) + " mesc");
+
+    }
+}

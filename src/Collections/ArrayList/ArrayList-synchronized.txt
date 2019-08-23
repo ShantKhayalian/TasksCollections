@@ -1,0 +1,17 @@
+List<String> namesList = Collections.synchronizedList(new ArrayList<String>());
+
+//List methods are synchronized
+
+namesList.add("Alex");
+namesList.add("Brian");
+
+//Use explicit synchronization while iterating
+
+synchronized(namesList) 
+{
+	Iterator<String> iterator = namesList.iterator(); 
+	while (iterator.hasNext()) 
+	{
+		System.out.println(iterator.next());
+	}
+}

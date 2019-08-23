@@ -1,0 +1,27 @@
+package com.company;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+public class ScannerApp {
+
+    public static void main(String[] args) {
+        FileCopyInput();
+    }
+
+    private static void FileCopyInput() {
+        System.out.println("inside FileCopyInput");
+        String data;
+        System.out.println("please enter shant name ");
+        try(BufferedReader in = new BufferedReader(new InputStreamReader(System.in,"UTF-8"))){
+            while((data = in.readLine())!= null && !data.equals("shant")){
+                System.out.println(" please enter your teacher name");
+            }
+
+        }catch(IOException e){
+            e.printStackTrace();
+        }
+        System.out.println("Yes thank you");
+    }
+}
