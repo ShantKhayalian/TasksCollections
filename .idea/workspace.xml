@@ -39,10 +39,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task0110">
+  <component name="RunManager" selected="Application.Pattern031">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="TasksCollections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern031" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern031" />
+      <module name="TasksCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StarsPatterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern032" />
+      <module name="TasksCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StarsPatterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -62,6 +88,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern031" />
+        <item itemvalue="Application.Pattern032" />
         <item itemvalue="Application.Task0110" />
         <item itemvalue="Application.App" />
       </list>
@@ -78,6 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1566376117694</updated>
       <workItem from="1566376120412" duration="6464000" />
+      <workItem from="1566544662968" duration="227000" />
     </task>
     <servers />
   </component>
@@ -89,7 +118,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
