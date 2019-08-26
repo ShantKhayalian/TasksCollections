@@ -39,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CallingNewThreadInRunnable">
+  <component name="RunManager" selected="Application.Task001">
     <configuration name="CallingNewThreadInRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Thread.CallingThreadMethod3.CallingNewThreadInRunnable" />
       <module name="TasksCollections" />
@@ -79,19 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverloadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.OverloadMethods.OverloadExample" />
-      <module name="TasksCollections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Methods.OverloadMethods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OwnException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exceptions.OwnException.OwnException" />
       <module name="TasksCollections" />
@@ -105,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AllTasksMethods.Task001" />
+      <module name="TasksCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AllTasksMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task001" />
         <item itemvalue="Application.CallingNewThreadInRunnable" />
         <item itemvalue="Application.CallingRunnable" />
         <item itemvalue="Application.CallingThreda" />
         <item itemvalue="Application.OwnException" />
-        <item itemvalue="Application.OverloadExample" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +128,7 @@
       <workItem from="1566376120412" duration="6464000" />
       <workItem from="1566544662968" duration="5379000" />
       <workItem from="1566560273290" duration="99000" />
-      <workItem from="1566801625099" duration="6769000" />
+      <workItem from="1566801625099" duration="7277000" />
     </task>
     <servers />
   </component>
