@@ -1,0 +1,51 @@
+public class ThreadPeriority {
+    public static void main(String[] args) {
+        System.out.println(Thread.currentThread());
+
+        Thread th = new Thread(new EmailCampaign());
+        Thread th2 = new Thread(new DataAccess());
+
+        th.setName("Email");
+        th2.setName("Data");
+
+        th.setPriority(Thread.MAX_PRIORITY);
+        th2.setPriority(Thread.MIN_PRIORITY);
+
+        th.start();
+        th2.start();
+
+        try {
+            th2.join(1);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        System.out.println("inside main...");
+    }
+}
+class EmailCampaign implements Runnable{
+/*
+Yield is a Static method and Native too.
+Yield tells the currently executing thread to give a chance to the threads that have equal priority in the Thread Pool.
+There is no guarantee that Yield will make the currently executing thread to runnable state immediately.
+It can only make a thread from Running State to Runnable State, not in wait or blocked state.
+ */
+    @Override
+    public void run() {
+        for (int i = 0; i <10 ; i++) {
+            System.out.println(Thread.currentThread().getName());
+            if(i==5){
+                Thread.currentThread().yield();
+            }
+        }
+    }
+}
+
+class DataAccess implements Runnable{
+
+    @Override
+    public void run() {
+        for (int i = 0; i <10 ; i++) {
+            System.out.println(Thread.currentThread().getName());
+        }
+    }
+}
