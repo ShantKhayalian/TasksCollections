@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb341e9-f3a8-4c28-b8e1-79ecbcb0f961" name="Default Changelist" comment="" />
+    <list default="true" id="1bb341e9-f3a8-4c28-b8e1-79ecbcb0f961" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern005.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TasksCollections/META-INF/TasksCollections.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StarsPatterns/Pattern031.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern031.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StarsPatterns/Pattern032.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern032.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task001">
+  <component name="RunManager" selected="Application.Pattern032">
     <configuration name="CallingNewThreadInRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Thread.CallingThreadMethod3.CallingNewThreadInRunnable" />
       <module name="TasksCollections" />
@@ -66,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallingThreda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.CallingThredMethod1.CallingThreda" />
+    <configuration name="Pattern031" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern031" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Thread.CallingThredMethod1.*" />
+          <option name="PATTERN" value="StarsPatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OwnException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptions.OwnException.OwnException" />
+    <configuration name="Pattern032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern032" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exceptions.OwnException.*" />
+          <option name="PATTERN" value="StarsPatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern032" />
+        <item itemvalue="Application.Pattern031" />
         <item itemvalue="Application.Task001" />
         <item itemvalue="Application.CallingNewThreadInRunnable" />
         <item itemvalue="Application.CallingRunnable" />
-        <item itemvalue="Application.CallingThreda" />
-        <item itemvalue="Application.OwnException" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +135,7 @@
       <workItem from="1566544662968" duration="5379000" />
       <workItem from="1566560273290" duration="99000" />
       <workItem from="1566801625099" duration="7277000" />
+      <workItem from="1575993889726" duration="1395000" />
     </task>
     <servers />
   </component>
