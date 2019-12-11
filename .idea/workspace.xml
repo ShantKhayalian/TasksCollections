@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bb341e9-f3a8-4c28-b8e1-79ecbcb0f961" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Abstraction/ChatTask/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Abstraction/ChatTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Abstraction/ChatTask/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Abstraction/ChatTask/Pozitiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Abstraction/ChatTask/Realist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Abstraction/ChatTask/Stuped.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TasksCollections/META-INF/TasksCollections.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StarsPatterns/Pattern031.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern031.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StarsPatterns/Pattern032.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern032.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pattern032">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="CallingNewThreadInRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Thread.CallingThreadMethod3.CallingNewThreadInRunnable" />
       <module name="TasksCollections" />
@@ -59,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallingRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.CallingThredMethod2.CallingRunnable" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Abstraction.ChatTask.Main" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Thread.CallingThredMethod2.*" />
+          <option name="PATTERN" value="OOP.Abstraction.ChatTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Pattern032" />
         <item itemvalue="Application.Pattern031" />
         <item itemvalue="Application.Task001" />
         <item itemvalue="Application.CallingNewThreadInRunnable" />
-        <item itemvalue="Application.CallingRunnable" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +138,16 @@
       <workItem from="1566560273290" duration="99000" />
       <workItem from="1566801625099" duration="7277000" />
       <workItem from="1575993889726" duration="1395000" />
+      <workItem from="1576049635829" duration="941000" />
     </task>
+    <task id="LOCAL-00001" summary="commit new files">
+      <created>1576049706799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576049706799</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,5 +165,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit new files" />
   </component>
 </project>
