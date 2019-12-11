@@ -7,7 +7,6 @@ public abstract class Person {
     private int age = (int) (Math.random() * 20 + 20);
 
     private String names() {
-
         String[] names = {"Ալեքսանդր", "Արամ", "Անահիտ", "Իրինա", "Նարինե", "Արմեն", "Հայկ", "Սիլվա", "Սանասար", "Բաղդասար"};
         int x = new Random().nextInt(names.length);
         return names[x];
