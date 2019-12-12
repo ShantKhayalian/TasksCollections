@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bb341e9-f3a8-4c28-b8e1-79ecbcb0f961" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern015.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Abstraction/ChatTask/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Abstraction/ChatTask/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Abstraction/ChatTask/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Abstraction/ChatTask/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StarsPatterns/Pattern006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern006.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,26 +46,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pattern006">
+  <component name="RunManager" selected="Application.Pattern015">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.Abstraction.ShootingTask.Main" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="OOP.Abstraction.ShootingTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Abstraction.ChatTask.Main" />
-      <module name="TasksCollections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP.Abstraction.ChatTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pattern015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern015" />
+      <module name="TasksCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StarsPatterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern015" />
         <item itemvalue="Application.Pattern006" />
         <item itemvalue="Application.Pattern007" />
         <item itemvalue="Application.Pattern008" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +137,8 @@
       <workItem from="1566560273290" duration="99000" />
       <workItem from="1566801625099" duration="7277000" />
       <workItem from="1575993889726" duration="1395000" />
-      <workItem from="1576049635829" duration="4833000" />
+      <workItem from="1576049635829" duration="4994000" />
+      <workItem from="1576165791664" duration="541000" />
     </task>
     <task id="LOCAL-00001" summary="commit new files">
       <created>1576049706799</created>
@@ -162,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576051040100</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit new files">
+      <created>1576056149025</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576056149027</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
