@@ -2,18 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bb341e9-f3a8-4c28-b8e1-79ecbcb0f961" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Patter028.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern027.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StarsPatterns/Pattern015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern015.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,9 +57,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pattern014">
-    <configuration name="Pattern009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern009" />
+  <component name="RunManager" selected="Application.Pattern030">
+    <configuration name="Pattern025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern025" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern010" />
+    <configuration name="Pattern026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern026" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern012" />
+    <configuration name="Pattern027" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern027" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern013" />
+    <configuration name="Pattern028" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern028" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern014" />
+    <configuration name="Pattern030" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern030" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pattern014" />
-        <item itemvalue="Application.Pattern013" />
-        <item itemvalue="Application.Pattern012" />
-        <item itemvalue="Application.Pattern010" />
-        <item itemvalue="Application.Pattern009" />
+        <item itemvalue="Application.Pattern030" />
+        <item itemvalue="Application.Pattern028" />
+        <item itemvalue="Application.Pattern027" />
+        <item itemvalue="Application.Pattern026" />
+        <item itemvalue="Application.Pattern025" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +149,7 @@
       <workItem from="1566801625099" duration="7277000" />
       <workItem from="1575993889726" duration="1395000" />
       <workItem from="1576049635829" duration="4994000" />
-      <workItem from="1576165791664" duration="4347000" />
+      <workItem from="1576165791664" duration="7001000" />
     </task>
     <task id="LOCAL-00001" summary="commit new files">
       <created>1576049706799</created>
@@ -184,7 +186,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576166420076</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit Star patterns">
+      <created>1576222608350</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576222608350</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit Star patterns">
+      <created>1576222671967</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576222671967</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
