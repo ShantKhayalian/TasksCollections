@@ -2,20 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bb341e9-f3a8-4c28-b8e1-79ecbcb0f961" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Patter028.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern017.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern024.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern025.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern026.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern027.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayList/ArrayListCompaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayList/ArrayListCompineJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayList/ArrayListConvertArrayListTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayList/ArrayListEnsureCapacity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayList/ArrayListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayList/ArrayListclone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayList/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Polymorphism/StudentsExplanation/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TasksCollections/NestedClasses/Accessing the Private Members.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TasksCollections/NestedClasses/Anonymous Inner Class as Argument.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TasksCollections/NestedClasses/Inner Class.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TasksCollections/NestedClasses/Method-local Inner Class.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TasksCollections/NestedClasses/Static Nested Class.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NestedClasses/Accessing the Private Members.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NestedClasses/Anonymous Inner Class as Argument.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NestedClasses/Inner Class.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NestedClasses/Method-local Inner Class.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NestedClasses/Static Nested Class.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,13 +62,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pattern030">
-    <configuration name="Pattern025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern025" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ArrayListCompaire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList.ArrayListCompaire" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StarsPatterns.*" />
+          <option name="PATTERN" value="Collections.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern026" />
+    <configuration name="ArrayListCompineJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList.ArrayListCompineJoin" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StarsPatterns.*" />
+          <option name="PATTERN" value="Collections.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern027" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern027" />
+    <configuration name="ArrayListConvertArrayListTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList.ArrayListConvertArrayListTo" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StarsPatterns.*" />
+          <option name="PATTERN" value="Collections.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern028" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern028" />
+    <configuration name="ArrayListEnsureCapacity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList.ArrayListEnsureCapacity" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StarsPatterns.*" />
+          <option name="PATTERN" value="Collections.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern030" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern030" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Polymorphism.StudentsExplanation.Main" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StarsPatterns.*" />
+          <option name="PATTERN" value="OOP.Polymorphism.StudentsExplanation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pattern030" />
-        <item itemvalue="Application.Pattern028" />
-        <item itemvalue="Application.Pattern027" />
-        <item itemvalue="Application.Pattern026" />
-        <item itemvalue="Application.Pattern025" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ArrayListEnsureCapacity" />
+        <item itemvalue="Application.ArrayListConvertArrayListTo" />
+        <item itemvalue="Application.ArrayListCompineJoin" />
+        <item itemvalue="Application.ArrayListCompaire" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +154,8 @@
       <workItem from="1566801625099" duration="7277000" />
       <workItem from="1575993889726" duration="1395000" />
       <workItem from="1576049635829" duration="4994000" />
-      <workItem from="1576165791664" duration="7001000" />
+      <workItem from="1576165791664" duration="8055000" />
+      <workItem from="1576253046339" duration="2398000" />
     </task>
     <task id="LOCAL-00001" summary="commit new files">
       <created>1576049706799</created>
@@ -200,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576222671967</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit Star patterns">
+      <created>1576234793024</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576234793024</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
