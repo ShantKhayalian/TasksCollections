@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bb341e9-f3a8-4c28-b8e1-79ecbcb0f961" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayList/ArrayListCompaire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayList/ArrayListCompineJoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayList/ArrayListConvertArrayListTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayList/ArrayListEnsureCapacity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayList/ArrayListIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayList/ArrayListclone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayList/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Polymorphism/StudentsExplanation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Switch/DayOfWeek.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TasksCollections/NestedClasses/Accessing the Private Members.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TasksCollections/NestedClasses/Anonymous Inner Class as Argument.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TasksCollections/NestedClasses/Inner Class.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TasksCollections/NestedClasses/Method-local Inner Class.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TasksCollections/NestedClasses/Static Nested Class.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedClasses/Accessing the Private Members.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedClasses/Anonymous Inner Class as Argument.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedClasses/Inner Class.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedClasses/Method-local Inner Class.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedClasses/Static Nested Class.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Polymorphism/StudentsExplanation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Polymorphism/StudentsExplanation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StarsPatterns/Pattern019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern019.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StarsPatterns/Pattern031.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern031.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StarsPatterns/Patterns016.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,13 +49,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="ArrayListCompaire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList.ArrayListCompaire" />
+  <component name="RunManager" selected="Application.DayOfWeek">
+    <configuration name="DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Switch.DayOfWeek" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.ArrayList.*" />
+          <option name="PATTERN" value="Switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListCompineJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList.ArrayListCompineJoin" />
+    <configuration name="Pattern016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern016" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.ArrayList.*" />
+          <option name="PATTERN" value="StarsPatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListConvertArrayListTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList.ArrayListConvertArrayListTo" />
+    <configuration name="Pattern019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern019" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.ArrayList.*" />
+          <option name="PATTERN" value="StarsPatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListEnsureCapacity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList.ArrayListEnsureCapacity" />
+    <configuration name="Pattern031" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern031" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.ArrayList.*" />
+          <option name="PATTERN" value="StarsPatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Polymorphism.StudentsExplanation.Main" />
+    <configuration name="Patterns016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Patterns016" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.Polymorphism.StudentsExplanation.*" />
+          <option name="PATTERN" value="StarsPatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ArrayListEnsureCapacity" />
-        <item itemvalue="Application.ArrayListConvertArrayListTo" />
-        <item itemvalue="Application.ArrayListCompineJoin" />
-        <item itemvalue="Application.ArrayListCompaire" />
+        <item itemvalue="Application.DayOfWeek" />
+        <item itemvalue="Application.Pattern031" />
+        <item itemvalue="Application.Pattern016" />
+        <item itemvalue="Application.Patterns016" />
+        <item itemvalue="Application.Pattern019" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +142,8 @@
       <workItem from="1575993889726" duration="1395000" />
       <workItem from="1576049635829" duration="4994000" />
       <workItem from="1576165791664" duration="8055000" />
-      <workItem from="1576253046339" duration="2398000" />
+      <workItem from="1576253046339" duration="6672000" />
+      <workItem from="1576323916250" duration="2821000" />
     </task>
     <task id="LOCAL-00001" summary="commit new files">
       <created>1576049706799</created>
@@ -213,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576234793024</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit Polymorphism">
+      <created>1576310426486</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1576310426487</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +230,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit new files" />
     <MESSAGE value="commit Star patterns" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit Star patterns" />
+    <MESSAGE value="commit Polymorphism" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit Polymorphism" />
   </component>
 </project>
