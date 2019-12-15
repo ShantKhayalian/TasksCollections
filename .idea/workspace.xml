@@ -2,12 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bb341e9-f3a8-4c28-b8e1-79ecbcb0f961" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Switch/DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Adapter/AdapterPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Adapter/BankCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Adapter/BankDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Adapter/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Builder/BuilderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Builder/CD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Builder/CDBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Builder/CDType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Builder/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Builder/Packing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Builder/Samsung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Builder/Sony.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/CommercialPlan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/DomesticPlan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/GenerateBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/GetPlanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/InstitutionalPlan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Factory/Plan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/MVC/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/MVC/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/MVC/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/MVC/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/SingleTon/SingleTon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Polymorphism/StudentsExplanation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Polymorphism/StudentsExplanation/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StarsPatterns/Pattern019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern019.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StarsPatterns/Pattern031.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern031.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StarsPatterns/Patterns016.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +35,129 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1673965274">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="24" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="24" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="62" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="62" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DesignPattern/Adapter/CreditCard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DesignPattern/Adapter/BankDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+                <element signature="e#595#596#0" expanded="true" />
+                <element signature="e#637#638#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DesignPattern/Adapter/BankCustomer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="35" column="92" selection-start-line="35" selection-start-column="92" selection-end-line="35" selection-end-column="92" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#206#277#1" expanded="true" />
+                <element signature="e#364#398#1" expanded="true" />
+                <element signature="e#432#436#0" expanded="true" />
+                <element signature="e#519#560#1" expanded="true" />
+                <element signature="e#594#598#0" expanded="true" />
+                <element signature="e#677#707#1" expanded="true" />
+                <element signature="e#721#751#0" expanded="true" />
+                <element signature="e#721#751#0" expanded="true" />
+                <element signature="e#765#784#0" expanded="true" />
+                <element signature="e#765#784#0" expanded="true" />
+                <element signature="e#798#819#0" expanded="true" />
+                <element signature="e#798#819#0" expanded="true" />
+                <element signature="e#831#895#0" expanded="true" />
+                <element signature="e#831#895#0" expanded="true" />
+                <element signature="e#997#1023#1" expanded="true" />
+                <element signature="e#1008#1022#0" expanded="true" />
+                <element signature="e#1036#1076#1" expanded="true" />
+                <element signature="e#1057#1075#0" expanded="true" />
+                <element signature="e#1089#1116#1" expanded="true" />
+                <element signature="e#1102#1115#0" expanded="true" />
+                <element signature="e#1096#1233#0" expanded="true" />
+                <element signature="e#1096#1233#0" expanded="true" />
+                <element signature="e#1096#1233#0" expanded="true" />
+                <element signature="e#1096#1233#0" expanded="true" />
+                <element signature="e#1096#1233#0" expanded="true" />
+                <element signature="e#1096#1233#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DesignPattern/Adapter/AdapterPattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#120#166#1" expanded="true" />
+                <element signature="e#227#258#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -25,17 +165,117 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/DesignPattern/MVC/Main.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/MVC/Student.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/MVC/StudentView.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/MVC/StudentController.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/SingleTon/SingleTon.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Factory/Plan.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Factory/CommercialPlan.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Factory/DomesticPlan.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Factory/InstitutionalPlan.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Factory/GetPlanFactory.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Factory/GenerateBill.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Builder/Packing.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Builder/CD.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Builder/Company.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Builder/Sony.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Builder/Samsung.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Builder/CDType.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Builder/CDBuilder.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Builder/BuilderMain.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Adapter/CreditCard.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Adapter/BankDetails.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Adapter/BankCustomer.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Adapter/AdapterPattern.java" />
+      </list>
+    </option>
+  </component>
+  <component name="IntelliJConfiguration">
+    <option name="PROPERTY_FILES">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="REMOVE_NBSP" value="true" />
+    <option name="CREATE_NEW_JSP" value="true" />
+    <option name="KEY_RESOLUTION_TYPE" value="Use all words in label" />
+    <option name="PROMPT_FOR_KEY_PREFIX" value="false" />
+    <option name="LABEL_PART_1" value="&lt;bean:message key=&quot;" />
+    <option name="LABEL_PART_2" value="&quot;/&gt;" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
   <component name="ProjectId" id="1Pj8P5FG9vtsDBq9AmBDHPGNtmg" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TasksCollections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TasksCollections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TasksCollections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TasksCollections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TasksCollections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TasksCollections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TasksCollections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TasksCollections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="MVC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TasksCollections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TasksCollections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Switch" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576440399077" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -49,7 +289,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DayOfWeek">
+  <component name="RunManager" selected="Application.AdapterPattern">
+    <configuration name="AdapterPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.Adapter.AdapterPattern" />
+      <module name="TasksCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.Adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuilderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.Builder.BuilderMain" />
+      <module name="TasksCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.Builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Switch.DayOfWeek" />
       <module name="TasksCollections" />
@@ -63,12 +329,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern016" />
+    <configuration name="GenerateBill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.Factory.GenerateBill" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StarsPatterns.*" />
+          <option name="PATTERN" value="DesignPattern.Factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +342,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern019" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.MVC.Main" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StarsPatterns.*" />
+          <option name="PATTERN" value="DesignPattern.MVC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,39 +355,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern031" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern031" />
-      <module name="TasksCollections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StarsPatterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Patterns016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Patterns016" />
-      <module name="TasksCollections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StarsPatterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.DayOfWeek" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.GenerateBill" />
+      <item itemvalue="Application.BuilderMain" />
+      <item itemvalue="Application.AdapterPattern" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdapterPattern" />
+        <item itemvalue="Application.BuilderMain" />
+        <item itemvalue="Application.GenerateBill" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.DayOfWeek" />
-        <item itemvalue="Application.Pattern031" />
-        <item itemvalue="Application.Pattern016" />
-        <item itemvalue="Application.Patterns016" />
-        <item itemvalue="Application.Pattern019" />
       </list>
     </recent_temporary>
   </component>
@@ -144,6 +391,7 @@
       <workItem from="1576165791664" duration="8055000" />
       <workItem from="1576253046339" duration="6672000" />
       <workItem from="1576323916250" duration="2821000" />
+      <workItem from="1576438393261" duration="2600000" />
     </task>
     <task id="LOCAL-00001" summary="commit new files">
       <created>1576049706799</created>
@@ -211,6 +459,48 @@
     <option name="localTasksCounter" value="10" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2600000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="RestServices" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Codota" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -220,6 +510,12 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -227,10 +523,377 @@
       </map>
     </option>
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit new files" />
     <MESSAGE value="commit Star patterns" />
     <MESSAGE value="commit Polymorphism" />
     <option name="LAST_COMMIT_MESSAGE" value="commit Polymorphism" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Switch/DayOfWeek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/MVC/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/MVC/StudentView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#140#158#0" expanded="true" />
+            <element signature="e#140#158#0" expanded="true" />
+            <element signature="e#188#210#0" expanded="true" />
+            <element signature="e#188#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/MVC.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="778">
+          <caret line="85" column="5" lean-forward="true" selection-start-line="59" selection-start-column="4" selection-end-line="85" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/MVC/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#297#316#0" expanded="true" />
+            <element signature="e#297#316#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#376#391#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#446#461#0" expanded="true" />
+            <element signature="e#446#461#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#516#529#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#603#617#0" expanded="true" />
+            <element signature="e#618#634#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/MVC/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#101#150#1" expanded="true" />
+            <element signature="e#119#149#0" expanded="true" />
+            <element signature="e#159#203#1" expanded="true" />
+            <element signature="e#212#293#1" expanded="true" />
+            <element signature="e#412#444#1" expanded="true" />
+            <element signature="e#453#469#0" expanded="true" />
+            <element signature="e#453#469#0" expanded="true" />
+            <element signature="e#479#503#0" expanded="true" />
+            <element signature="e#479#503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/SingleTon.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/SingleTon/SingleTon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#495#533#1" expanded="true" />
+            <element signature="e#509#532#0" expanded="true" />
+            <element signature="e#542#580#1" expanded="true" />
+            <element signature="e#556#579#0" expanded="true" />
+            <element signature="e#590#605#0" expanded="true" />
+            <element signature="e#590#605#0" expanded="true" />
+            <element signature="e#615#631#0" expanded="true" />
+            <element signature="e#615#631#0" expanded="true" />
+            <element signature="e#660#668#0" expanded="true" />
+            <element signature="e#698#706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Factory/Plan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#181#191#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Factory/CommercialPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Factory/GenerateBill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#196#246#1" expanded="true" />
+            <element signature="e#341#412#1" expanded="true" />
+            <element signature="e#418#448#1" expanded="true" />
+            <element signature="e#536#578#1" expanded="true" />
+            <element signature="e#584#623#1" expanded="true" />
+            <element signature="e#752#815#0" expanded="true" />
+            <element signature="e#752#815#0" expanded="true" />
+            <element signature="e#752#815#0" expanded="true" />
+            <element signature="e#752#815#0" expanded="true" />
+            <element signature="e#789#800#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Factory/InstitutionalPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Factory/DomesticPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Factory/GetPlanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Builder/Packing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Builder/CD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Builder/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Builder/Sony.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Builder/Samsung.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding>
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Builder/CDType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#117#141#0" expanded="true" />
+            <element signature="e#99#108#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#216#232#0" expanded="true" />
+            <element signature="e#216#232#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#277#343#0" expanded="true" />
+            <element signature="e#225#238#0" expanded="true" />
+            <element signature="e#277#343#0" expanded="true" />
+            <element signature="e#389#555#0" expanded="true" />
+            <element signature="e#335#350#0" expanded="true" />
+            <element signature="e#389#555#0" expanded="true" />
+            <element signature="e#450#479#0" expanded="true" />
+            <element signature="e#450#479#0" expanded="true" />
+            <element signature="e#513#543#0" expanded="true" />
+            <element signature="e#513#543#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Builder/CDBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#98#122#1" expanded="true" />
+            <element signature="e#226#250#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Builder/BuilderMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#111#147#1" expanded="true" />
+            <element signature="e#156#195#1" expanded="true" />
+            <element signature="e#234#276#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Adapter/CreditCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Adapter/BankDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Adapter/BankCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="35" column="92" selection-start-line="35" selection-start-column="92" selection-end-line="35" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#206#277#1" expanded="true" />
+            <element signature="e#364#398#1" expanded="true" />
+            <element signature="e#432#436#0" expanded="true" />
+            <element signature="e#519#560#1" expanded="true" />
+            <element signature="e#594#598#0" expanded="true" />
+            <element signature="e#677#707#1" expanded="true" />
+            <element signature="e#721#751#0" expanded="true" />
+            <element signature="e#721#751#0" expanded="true" />
+            <element signature="e#765#784#0" expanded="true" />
+            <element signature="e#765#784#0" expanded="true" />
+            <element signature="e#798#819#0" expanded="true" />
+            <element signature="e#798#819#0" expanded="true" />
+            <element signature="e#831#895#0" expanded="true" />
+            <element signature="e#831#895#0" expanded="true" />
+            <element signature="e#997#1023#1" expanded="true" />
+            <element signature="e#1008#1022#0" expanded="true" />
+            <element signature="e#1036#1076#1" expanded="true" />
+            <element signature="e#1057#1075#0" expanded="true" />
+            <element signature="e#1089#1116#1" expanded="true" />
+            <element signature="e#1102#1115#0" expanded="true" />
+            <element signature="e#1096#1233#0" expanded="true" />
+            <element signature="e#1096#1233#0" expanded="true" />
+            <element signature="e#1096#1233#0" expanded="true" />
+            <element signature="e#1096#1233#0" expanded="true" />
+            <element signature="e#1096#1233#0" expanded="true" />
+            <element signature="e#1096#1233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Adapter/AdapterPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#120#166#1" expanded="true" />
+            <element signature="e#227#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
