@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bb341e9-f3a8-4c28-b8e1-79ecbcb0f961" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArraySection/ArrayChallenges/DublicatedValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Christmastree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +45,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DublicatedValues">
+  <component name="RunManager" selected="Application.Christmastree$ChristmasTree">
+    <configuration name="Christmastree$ChristmasTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Christmastree$ChristmasTree" />
+      <module name="TasksCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StarsPatterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Switch.DayOfWeek" />
       <module name="TasksCollections" />
@@ -98,26 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Patterns016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Patterns016" />
-      <module name="TasksCollections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StarsPatterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Christmastree$ChristmasTree" />
         <item itemvalue="Application.DublicatedValues" />
         <item itemvalue="Application.DayOfWeek" />
         <item itemvalue="Application.Pattern031" />
         <item itemvalue="Application.Pattern016" />
-        <item itemvalue="Application.Patterns016" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +141,7 @@
       <workItem from="1576253046339" duration="6672000" />
       <workItem from="1576323916250" duration="3878000" />
       <workItem from="1576407580200" duration="114000" />
-      <workItem from="1576850799909" duration="274000" />
+      <workItem from="1576850799909" duration="945000" />
     </task>
     <task id="LOCAL-00001" summary="commit new files">
       <created>1576049706799</created>
@@ -213,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576329137331</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="commit Switch">
+      <created>1576851207703</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1576851207704</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
