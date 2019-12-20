@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bb341e9-f3a8-4c28-b8e1-79ecbcb0f961" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StarsPatterns/Christmastree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chanllenges/Others/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chanllenges/Others/NumberToTimeConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraySection/ArrayChallenges/DublicatedValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chanllenges/Arrays/OneDimentional/DublicatedValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StarsPatterns/Christmastree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chanllenges/Stars/Christmastree.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +48,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Christmastree$ChristmasTree">
+  <component name="RunManager" selected="Application.NumberToTimeConverter">
     <configuration name="Christmastree$ChristmasTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Christmastree$ChristmasTree" />
+      <option name="MAIN_CLASS_NAME" value="Chanllenges.Stars.Christmastree$ChristmasTree" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StarsPatterns.*" />
+          <option name="PATTERN" value="Chanllenges.Stars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,11 +76,11 @@
       </method>
     </configuration>
     <configuration name="DublicatedValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraySection.ArrayChallenges.DublicatedValues" />
+      <option name="MAIN_CLASS_NAME" value="Chanllenges.Arrays.OneDimentional.DublicatedValues" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraySection.ArrayChallenges.*" />
+          <option name="PATTERN" value="Chanllenges.Stars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern016" />
+    <configuration name="NumberToTimeConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chanllenges.Others.NumberToTimeConverter" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StarsPatterns.*" />
+          <option name="PATTERN" value="Chanllenges.Others.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,7 +106,7 @@
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StarsPatterns.*" />
+          <option name="PATTERN" value="Chanllenges.Stars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberToTimeConverter" />
         <item itemvalue="Application.Christmastree$ChristmasTree" />
         <item itemvalue="Application.DublicatedValues" />
         <item itemvalue="Application.DayOfWeek" />
         <item itemvalue="Application.Pattern031" />
-        <item itemvalue="Application.Pattern016" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +144,7 @@
       <workItem from="1576253046339" duration="6672000" />
       <workItem from="1576323916250" duration="3878000" />
       <workItem from="1576407580200" duration="114000" />
-      <workItem from="1576850799909" duration="945000" />
+      <workItem from="1576850799909" duration="2189000" />
     </task>
     <task id="LOCAL-00001" summary="commit new files">
       <created>1576049706799</created>
@@ -220,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576851207704</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="commit Switch">
+      <created>1576851851736</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1576851851736</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

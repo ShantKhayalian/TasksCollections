@@ -1,4 +1,4 @@
-package StarsPatterns;
+package Chanllenges.Stars;
 
 public class Christmastree {
     public static final int SEGMENTS = 4;

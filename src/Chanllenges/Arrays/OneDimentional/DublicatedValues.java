@@ -1,4 +1,4 @@
-package ArraySection.ArrayChallenges;
+package Chanllenges.Arrays.OneDimentional;
 
 import java.util.Scanner;
 
