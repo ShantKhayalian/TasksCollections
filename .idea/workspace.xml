@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bb341e9-f3a8-4c28-b8e1-79ecbcb0f961" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Switch/DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraySection/ArrayChallenges/DublicatedValues.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Polymorphism/StudentsExplanation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Polymorphism/StudentsExplanation/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StarsPatterns/Pattern019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern019.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StarsPatterns/Pattern031.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StarsPatterns/Pattern031.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StarsPatterns/Patterns016.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +31,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -49,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DayOfWeek">
+  <component name="RunManager" selected="Application.DublicatedValues">
     <configuration name="DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Switch.DayOfWeek" />
       <module name="TasksCollections" />
@@ -63,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern016" />
+    <configuration name="DublicatedValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraySection.ArrayChallenges.DublicatedValues" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StarsPatterns.*" />
+          <option name="PATTERN" value="ArraySection.ArrayChallenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern019" />
+    <configuration name="Pattern016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern016" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DublicatedValues" />
         <item itemvalue="Application.DayOfWeek" />
         <item itemvalue="Application.Pattern031" />
         <item itemvalue="Application.Pattern016" />
         <item itemvalue="Application.Patterns016" />
-        <item itemvalue="Application.Pattern019" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +139,9 @@
       <workItem from="1576049635829" duration="4994000" />
       <workItem from="1576165791664" duration="8055000" />
       <workItem from="1576253046339" duration="6672000" />
-      <workItem from="1576323916250" duration="2821000" />
+      <workItem from="1576323916250" duration="3878000" />
+      <workItem from="1576407580200" duration="114000" />
+      <workItem from="1576850799909" duration="274000" />
     </task>
     <task id="LOCAL-00001" summary="commit new files">
       <created>1576049706799</created>
@@ -208,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576310426487</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit Switch">
+      <created>1576329137331</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1576329137331</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +236,7 @@
     <MESSAGE value="commit new files" />
     <MESSAGE value="commit Star patterns" />
     <MESSAGE value="commit Polymorphism" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit Polymorphism" />
+    <MESSAGE value="commit Switch" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit Switch" />
   </component>
 </project>
