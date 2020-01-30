@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bb341e9-f3a8-4c28-b8e1-79ecbcb0f961" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chanllenges/Others/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chanllenges/Others/NumberToTimeConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task books/ArmWorkBook2.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArraySection/ArrayChallenges/DublicatedValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chanllenges/Arrays/OneDimentional/DublicatedValues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StarsPatterns/Christmastree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chanllenges/Stars/Christmastree.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,27 +24,28 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/JSON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ebooks/Spring" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\TasksCollections\src\ebooks\Java" />
+      <recent name="C:\TasksCollections\src\Task books" />
+      <recent name="C:\TasksCollections\src\JSON" />
+      <recent name="C:\TasksCollections\src\Network" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.NumberToTimeConverter">
     <configuration name="Christmastree$ChristmasTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -126,6 +123,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -147,6 +156,7 @@
       <workItem from="1576323916250" duration="3878000" />
       <workItem from="1576407580200" duration="114000" />
       <workItem from="1576850799909" duration="2189000" />
+      <workItem from="1580366698296" duration="250000" />
     </task>
     <task id="LOCAL-00001" summary="commit new files">
       <created>1576049706799</created>
@@ -232,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576851851736</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit Switch">
+      <created>1580366855404</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1580366855404</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +276,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit Switch" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="585" y="117" key="CommitChangelistDialog2" timestamp="1580366855087">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580366855087" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1580366857050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580366857050" />
     <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1580366701686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
