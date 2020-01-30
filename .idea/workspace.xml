@@ -29,9 +29,11 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/JSON" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -255,5 +257,11 @@
     <MESSAGE value="commit Polymorphism" />
     <MESSAGE value="commit Switch" />
     <option name="LAST_COMMIT_MESSAGE" value="commit Switch" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1580366701686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580366701686" />
   </component>
 </project>
