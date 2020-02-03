@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bb341e9-f3a8-4c28-b8e1-79ecbcb0f961" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task books/ArmWorkBook2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/AtomicCity/MeetUpEventSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/Join/Join.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/Pool/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/Synchronizae/Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/Synchronizae/Brakets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/Synchronizae/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/Volatile/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/Volatile/SingleTon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/Volatile/StopThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/WaitNotify/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/WaitNotify/ProducerConsumerSolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TasksCollections/META-INF/TasksCollections.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TasksCollections/META-INF/TasksCollections.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TasksCollections/Thread/RaceCondition" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TasksCollections/Thread/ThreadPeriority" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TasksCollections/Thread/synchronized block" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TasksCollections/Thread/synchronizedmethod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/RaceCondition" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/RaceConsition/RaceCondition" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/ThreadPeriority" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/ThreadPool/ThreadPeriority" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/synchronized block" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/Synchronizae/synchronized block" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/synchronizedmethod" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/Synchronizae/synchronizedmethod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,20 +59,26 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\TasksCollections\src\Thread\ThreadPool" />
+      <recent name="C:\TasksCollections\src\Thread\RaceConsition" />
+      <recent name="C:\TasksCollections\src\Thread\Synchronizae" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\TasksCollections\src\ebooks\Spring" />
       <recent name="C:\TasksCollections\src\ebooks\Java" />
       <recent name="C:\TasksCollections\src\Task books" />
       <recent name="C:\TasksCollections\src\JSON" />
       <recent name="C:\TasksCollections\src\Network" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumberToTimeConverter">
-    <configuration name="Christmastree$ChristmasTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chanllenges.Stars.Christmastree$ChristmasTree" />
+  <component name="RunManager" selected="Application.ProducerConsumerSolution">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.WaitNotify.App" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chanllenges.Stars.*" />
+          <option name="PATTERN" value="Thread.WaitNotify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Switch.DayOfWeek" />
+    <configuration name="Join" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.Join.Join" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Switch.*" />
+          <option name="PATTERN" value="Thread.Join.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DublicatedValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chanllenges.Arrays.OneDimentional.DublicatedValues" />
+    <configuration name="MeetUpEventSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.AtomicCity.MeetUpEventSimulator" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chanllenges.Stars.*" />
+          <option name="PATTERN" value="Thread.AtomicCity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberToTimeConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chanllenges.Others.NumberToTimeConverter" />
+    <configuration name="ProducerConsumerSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.WaitNotify.ProducerConsumerSolution" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chanllenges.Others.*" />
+          <option name="PATTERN" value="Thread.WaitNotify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern031" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarsPatterns.Pattern031" />
+    <configuration name="WaitNotifyIndexer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.WaitNotify.WaitNotifyIndexer" />
       <module name="TasksCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chanllenges.Stars.*" />
+          <option name="PATTERN" value="Thread.WaitNotify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumberToTimeConverter" />
-        <item itemvalue="Application.Christmastree$ChristmasTree" />
-        <item itemvalue="Application.DublicatedValues" />
-        <item itemvalue="Application.DayOfWeek" />
-        <item itemvalue="Application.Pattern031" />
+        <item itemvalue="Application.ProducerConsumerSolution" />
+        <item itemvalue="Application.Join" />
+        <item itemvalue="Application.WaitNotifyIndexer" />
+        <item itemvalue="Application.MeetUpEventSimulator" />
+        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +181,10 @@
       <workItem from="1576323916250" duration="3878000" />
       <workItem from="1576407580200" duration="114000" />
       <workItem from="1576850799909" duration="2189000" />
-      <workItem from="1580366698296" duration="250000" />
+      <workItem from="1580366698296" duration="410000" />
+      <workItem from="1580412833559" duration="11000" />
+      <workItem from="1580416006627" duration="24000" />
+      <workItem from="1580710387597" duration="2171000" />
     </task>
     <task id="LOCAL-00001" summary="commit new files">
       <created>1576049706799</created>
@@ -249,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580366855404</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="commit Switch">
+      <created>1580367060149</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1580367060149</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,17 +311,41 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit Switch" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="117" key="CommitChangelistDialog2" timestamp="1580366855087">
+    <state x="677" y="179" key="#App" timestamp="1580710771034">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580366855087" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1580366857050">
+    <state x="677" y="179" key="#App/0.0.1920.1040@0.0.1920.1040" timestamp="1580710771034" />
+    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580710770358">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580366857050" />
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1580366701686">
+    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580710770358" />
+    <state x="585" y="117" key="CommitChangelistDialog2" timestamp="1580367059036">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580366701686" />
+    <state x="585" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580367059036" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1580712591034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580712591034" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1580712591034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580712591034" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1580712591034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580712591034" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1580712591034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580712591034" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1580367061251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580367061251" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1580412834847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580412834847" />
   </component>
 </project>

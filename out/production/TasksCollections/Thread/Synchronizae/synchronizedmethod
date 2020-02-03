@@ -1,0 +1,20 @@
+package com.company;
+
+public class Syncronizedblock {
+    public static void main(String[] args) throws InterruptedException {
+        MathClass mathClass = new MathClass();
+        mathClass.printNumbers(10);
+    }
+
+}
+class MathClass2
+{
+    synchronized void printNumbers(int n) throws InterruptedException
+    {
+        for (int i = 1; i <= n; i++)
+        {
+            System.out.println(Thread.currentThread().getName() + " :: "+  i);
+            Thread.sleep(500);
+        }
+    }
+}
